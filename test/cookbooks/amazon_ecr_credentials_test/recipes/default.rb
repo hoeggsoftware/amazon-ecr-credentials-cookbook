@@ -1,5 +1,5 @@
 #
-# Cookbook:: hs_aws_ecr_docker_credentials
+# Cookbook:: amazon_ecr_credentials_test
 # Recipe:: default
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
